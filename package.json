@@ -1,0 +1,13 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "Client-side expense tracker built with HTML, CSS, and Vanilla JavaScript.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "devDependencies": {
+    "fast-check": "^3.22.0",
+    "vitest": "^2.1.0"
+  }
+}
